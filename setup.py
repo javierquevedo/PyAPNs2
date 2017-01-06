@@ -2,7 +2,7 @@
 
 from distutils.core import setup
 
-dependencies = ['hyper']
+dependencies = ['hyper==0.4.0']
 
 try:
     # noinspection PyUnresolvedReferences
